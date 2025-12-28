@@ -55,3 +55,10 @@ The goal of this case study is to demonstrate SOC L1 file triage methodology, de
 - Not all unusual files are malicious
 - File type verification is critical
 - Proper triage prevents false escalation
+---
+## Detailed Case Report
+The full investigation process and findings are documented in the `case-report` folder:
+- Incident summary
+- Step-by-step file analysis
+- Findings
+- Final conclusion and risk assessment
